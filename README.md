@@ -11,7 +11,7 @@ Arquivo "Pedido_Inserção"
   Existem três planilhas nesse projeto
   
   - "Serviço" -> são inseridos os serviços ofertados pela empresa e seus respectivos dados. 
-    -há uma imagem atribuida de uma macro 'atualiza' quando necessária a inserção de um novo serviço
+    -há uma imagem atribuida de uma macro 'atualizar' quando necessária a inserção de um novo serviço
   - "Clientes" -> Planilha destinada ao cadastro dos cliente
   - "PI"-> Modelo do contrato a ser impresso
     - Contratada-> os dados são estáticos. preenchidos manualmente uma única vez 
